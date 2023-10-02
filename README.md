@@ -4,28 +4,22 @@
 Приложением генерируются следующие распределения:
 
 1) Равномерное распределение
-Функция плотности вероятности: ![image](https://github.com/FakeYury/MainRepo/assets/146737815/3e2074b5-933a-41cf-b4f2-51e1e473d9ca)
 
 
 2) Нормальное распределение
-Функция плотности вероятности: ![image](https://github.com/FakeYury/MainRepo/assets/146737815/0af896f4-0837-4da2-aa2d-aaf79e94e064)
 
 
 3)Логнормальное распределение
-Функция плотности вероятности: ![image](https://github.com/FakeYury/MainRepo/assets/146737815/084c62ac-fbef-48b3-81bf-2a3d480da9ff)
 
 
 4) Распределение Пуассона
-Функция вероятности: ![image](https://github.com/FakeYury/MainRepo/assets/146737815/574768b0-711f-4050-84f3-741e482cf656)
 
 
 5) Экспоненциальное распределение         
-Функция плотности вероятности:      ![image](https://github.com/FakeYury/MainRepo/assets/146737815/34ebbffb-a27c-4ad6-989e-eb05bf67759d)
 
 
 
 6) Биномиальное распределение
-Функция вероятности: ![image](https://github.com/FakeYury/MainRepo/assets/146737815/ceb05719-c1f3-43bb-8d34-f7ac119cc4ba)
 
 
 ## 1) Взаимодействие с пользовательским интерфейсом
